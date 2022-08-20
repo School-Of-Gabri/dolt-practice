@@ -8,3 +8,26 @@ Dolt implements the Git command line and associated operations on table rows ins
 
 URL: [DoltHub - Getting Started](https://docs.dolthub.com/introduction/getting-started/database)
 
+## My first DoltHub repo:
+
+URL: [angelodeath/a-dolt-ery](https://www.dolthub.com/repositories/angelodeath/a-dolt-ery)
+
+## Install dolt cli:
+
+### Windows:
+
+```pwsh
+> scoop install dolt
+```
+
+### MacOS:
+
+```zsh
+brew install dolt
+```
+
+### linux
+
+```bash
+nix-env
+```
