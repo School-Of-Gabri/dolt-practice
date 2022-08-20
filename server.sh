@@ -1,0 +1,1 @@
+ dolt sql-server --privilege-file='privs.json' -H '172.17.64.1' -u 'root' -p 'root'
